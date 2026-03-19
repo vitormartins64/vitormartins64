@@ -1,12 +1,7 @@
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif"width="500">
 
----
-
-<!-- Nome estilo pixel (roxo) -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=28&duration=3000&pause=2000&color=A020F0&center=true&vCenter=true&width=900&lines=Vitor+Martins+dos+Santos" />
-</p>
-
-### 👨‍💻 Sobre mim
+  ### 👨‍💻 Sobre mim
 
 Meu nome é Vitor Martins dos Santos, tenho 21 anos e sou estudante de Análise e Desenvolvimento de Sistemas (ADS) pela UNIP, com foco em Análise de Dados. Busco desenvolver habilidades voltadas à interpretação, organização e análise de dados, com o objetivo de gerar insights que apoiem a tomada de decisões.
 
