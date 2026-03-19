@@ -12,7 +12,7 @@ Meu nome é Vitor Martins dos Santos, tenho 21 anos e sou estudante de Análise 
 
 ---
 
-### 
+### Linguagens de Programação que Ultilizo
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,mysql" />
