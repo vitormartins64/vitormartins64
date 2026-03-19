@@ -4,6 +4,3 @@
 - 🌱 Estudando Python e SQL
 - 📩 Contate-me no email: vitormzxa@gmail.com
 - 😄 Pronouns: ele/dele
-
-<div>
-(https://github-readme-stats.vercel.app/apivitormartins64=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
