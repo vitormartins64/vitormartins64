@@ -4,10 +4,7 @@
 - 🌱 Estudando Python e SQL
 - 😄 Pronouns: ele/dele
 
-<!-- Banner animado (dark + roxo tech) -->
-<p align="center">
-  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="100%" />
-</p>
+
 
 <!-- Animação de digitação -->
 <p align="center">
