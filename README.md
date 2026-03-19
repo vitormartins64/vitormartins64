@@ -31,11 +31,7 @@ Meu nome é Vitor Martins dos Santos, tenho 21 anos e sou estudante de Análise 
 
 ### 
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitormartins64&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A020F0&icon_color=A020F0&text_color=ffffff"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormartins64&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A020F0&text_color=ffffff"/>
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
