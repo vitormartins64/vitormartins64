@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=28&duration=3000&pause=2000&color=A020F0&center=true&vCenter=true&width=900&lines=Vitor+Martins+dos+Santos" />
 </p>
----
 
 ### 👨‍💻 Sobre mim
 
