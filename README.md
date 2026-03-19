@@ -4,6 +4,11 @@
 - 🌱 Estudando Python e SQL
 - 😄 Pronouns: ele/dele
 
+<!-- Banner animado (dark + roxo tech) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="100%" />
+</p>
+
 <!-- Animação de digitação -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Vitor+Martins+dos+Santos;Estudante+de+ADS+na+UNIP;Focado+em+Análise+de+Dados;Python+|+SQL+|+Java+|+C">
