@@ -6,4 +6,4 @@
 - 😄 Pronouns: ele/dele
 
 <div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apivitormartins64=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/apivitormartins64=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
