@@ -17,12 +17,12 @@ Meu nome é Vitor Martins dos Santos, tenho 21 anos e sou estudante de Análise 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,mysql" />
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
-
+  <img src="https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
+  
 <p align="center">
   Python • SQL • Java • C • Pandas • NumPy
 </p>
