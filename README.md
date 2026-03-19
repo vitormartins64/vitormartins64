@@ -3,7 +3,7 @@
 
 <!-- Animação de digitação -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=A020F0&size=28&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Vitor+Martins+dos+Santos
+  <img src="https://readme-typing-svg.herokuapp.com/?color=A020F0&size=28&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Vitor+Martins+dos+Santos>
 </p>
 
 ---
